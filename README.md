@@ -6,10 +6,18 @@ A repository containing my introductory Python scripts, focusing on core data st
 
 ---
 
-## Practice Problem: string manipulation and input filtering
+## Practice Problem 1: string manipulation and input filtering
 
 **Description:** 
 Write a script that captures a user's sentence using _input()_
 
 ### Solution
 
+---
+
+## Practice Problem 2: word rotation problem
+
+**Description:** 
+Create a function named rotate_word() that accepts a non-empty string. Move the first character of the string to the end while keeping all remaining characters in their original order. Preserve the capitalization of every character.
+### Solution
+ 
