@@ -5,7 +5,7 @@ A repository containing my introductory Python scripts, focusing on core data st
 ---
 
 # FOR MODULE 1:
-📝 **[click here for reviewer](./mod 1 reviewer.ipynb)**
+📝 **[click here for reviewer](./mod%201%20reviewer.ipynb)**
 
 ---
 
