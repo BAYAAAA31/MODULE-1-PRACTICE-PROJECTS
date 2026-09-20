@@ -2,6 +2,9 @@
 
 A repository containing my introductory Python scripts, focusing on core data structures, loop control flow, and syntax fundamentals. 
 
+---
+
+# FOR MODULE 1:
 📝 **[Click here for the Reviewer Guide & Feedback Notes](./reviewer_notes.md)**
 
 ---
